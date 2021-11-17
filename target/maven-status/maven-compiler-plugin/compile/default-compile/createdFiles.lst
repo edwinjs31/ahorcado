@@ -1,0 +1,10 @@
+com\albares\ahorcado\api\Api.class
+com\albares\ahorcado\api\GamerService.class
+com\albares\ahorcado\api\PlayService.class
+com\albares\ahorcado\api\Match.class
+com\albares\ahorcado\utils\Parameters.class
+com\albares\ahorcado\utils\DeployListener.class
+com\albares\ahorcado\api\Gamer.class
+com\albares\ahorcado\api\Response.class
+com\albares\ahorcado\utils\JWTUtils.class
+com\albares\ahorcado\utils\Secrets.class
